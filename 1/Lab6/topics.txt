@@ -1,0 +1,8 @@
+*. Generate Data
+1. Linear Search(100k data)
+2. Bubble sort
+3. Selection sort
+4. Insertion Sort
+5. Binary Search
+6. Merge Sort
+7. Quick Sort

@@ -1,0 +1,10 @@
+
+1. functionality of Matrix
+--> summation
+--> substruction
+--> multiplication
+---> Transpose
+--> use random number in matrix
+--> dynamic matrix
+
+

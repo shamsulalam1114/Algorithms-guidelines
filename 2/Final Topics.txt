@@ -1,0 +1,10 @@
+
+1. Stack, Queue, priority Queue(Max Heap, Min Heap)
+2. Graph Representation[Matrix, List]
+3. DFS, BFS
+4. single source shortest path
+--> Dijsktra Algorithm
+--> Bellman ford
+5. Minimum spanning tree
+6. All pair shortest path
+--> Floyd-Warshall Algorithm

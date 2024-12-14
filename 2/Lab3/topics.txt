@@ -1,0 +1,12 @@
+
+1. Generate 100k Data
+2. write Linear search
+
+Homework (upload in github)
+2. Queue(procedural and OOP)
+3. Matrix operation(2D dynamic array)
+[procedural and OOP]
+--> sum
+--> Transpose
+--> Multiplication
+
